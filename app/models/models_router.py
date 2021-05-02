@@ -1,5 +1,5 @@
 from fastapi import APIRouter
-from .models import get_isoline_from_address, geoapify_key
+from .geocoding import get_isoline_from_address, geoapify_key
 
 models = APIRouter()
 

@@ -1,3 +1,5 @@
 .env
 venv/
 working.ipynb
+.ipynb_checkoutpoints
+app/data/database.db
